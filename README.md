@@ -9,7 +9,7 @@ Connect with me on Linkedin.
 | <a href="https://linkedin.com/in/suryansh-goel-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suryansh-goel-" height="40" width="40" /></a> |
 
 ### Working on: 🚀
-- Learning React.
+- Learning golang for Backend development.
 - Learning Data Structures and Algorithms.
 
 
