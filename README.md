@@ -1,5 +1,5 @@
-### About Me: 
-Hey there! I'm currently an SDE Intern at Omniful.ai and also pursuing my degree in Electronics and Computer Engineering at JC Bose University of Science and Technology, YMCA. I love working on backend stuff and am always trying out new libraries, tools, and ways to make my code cleaner and more efficient. I'm constantly learning, building, and experimenting to level up my skills and explore better ways to solve real-world problems.
+### About Me:  
+Hey there! I'm currently an SDE Intern at Omniful.ai and pursuing a degree in Electronics and Computer Engineering at JC Bose University of Science and Technology, YMCA. I’m passionate about backend development and love experimenting with new libraries, frameworks, and tools. Whether it’s trying out cleaner ways to write code or learning how things work under the hood, I’m always exploring and building something new.
 
 ### Social media: 📡  
 Connect with me on LinkedIn.
@@ -44,9 +44,9 @@ Connect with me on LinkedIn.
 
 ### Tools & Platforms:
 
-| Git | Kafka | Redash |
-|-----|-------|--------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="55" height="55"/> | <img src="https://avatars.githubusercontent.com/u/10746780?s=200&v=4" width="55" height="55"/> |
+| Git | Kafka | Redash | Postman |
+|-----|-------|--------|---------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="55" height="55"/> | <img src="https://avatars.githubusercontent.com/u/10746780?s=200&v=4" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/> |
 
 </div>
 
