@@ -1,60 +1,128 @@
-### About Me:  
-Hey there! I'm currently an SDE Intern at Omniful.ai and pursuing a degree in Electronics and Computer Engineering at JC Bose University of Science and Technology, YMCA. I’m passionate about backend development and love experimenting with new libraries, frameworks, and tools. Whether it’s trying out cleaner ways to write code or learning how things work under the hood, I’m always exploring and building something new.
+<div align="center">
 
-### Social media: 📡  
-Connect with me on LinkedIn.
+<pre>
+███████╗██╗   ██╗██████╗ ██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗
+██╔════╝██║   ██║██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║██╔════╝██║  ██║
+███████╗██║   ██║██████╔╝ ╚████╔╝ ███████║██╔██╗ ██║███████╗███████║
+╚════██║██║   ██║██╔══██╗  ╚██╔╝  ██╔══██║██║╚██╗██║╚════██║██╔══██║
+███████║╚██████╔╝██║  ██║   ██║   ██║  ██║██║ ╚████║███████║██║  ██║
+╚══════╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
+                              G O E L
+</pre>
 
-| Linkedin |
-|----------|
-| <a href="https://linkedin.com/in/suryansh-goel-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suryansh-goel-" height="40" width="40" /></a> |
+### `SDE @ Omniful.ai` &nbsp;·&nbsp; `Backend Engineer` &nbsp;·&nbsp; `Go Enthusiast`
 
-### Working on: 🚀  
-- Learning Golang for Backend Development.
-
----
-
-<h3 align="left">Coding Profiles:</h3>
-
-| Leetcode | GFG |
-|----------|----------|
-| <a href="https://www.leetcode.com/suryansh_goel_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suryansh_goel_" height="55" width="55" /></a> | <a href="https://auth.geeksforgeeks.org/user/suryansh_goel03/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="suryansh_goel03/profile" height="55" width="55" /></a> |
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-
-<div>
-
-### Languages:
-| Golang | C++ | Python3 | C | HTML | CSS | JavaScript |
-|--------|-----|----------|----|------|-----|-------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55"/> |
-
-### Backend Frameworks & Libraries:
-
-| Gin | GORM |
-|-----|------|
-| <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="gin" width="55" height="55"/> | <img src="https://avatars.githubusercontent.com/u/15127678?s=48&v=4" alt="gorm" width="90" height="55"/> |
-
-### Databases:
-
-| PostgreSQL | MongoDB | Redis |
-|------------|---------|-------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="55" height="55"/> |
-
-### Tools & Platforms:
-
-| Git | Kafka | Redash | Postman |
-|-----|-------|--------|---------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="55" height="55"/> | <img src="https://avatars.githubusercontent.com/u/10746780?s=200&v=4" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/> |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suryansh-goel-)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/suryansh_goel_)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/suryansh_goel03/profile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suryansh0301)
 
 </div>
 
-<br/>
+---
 
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Suryansh0301&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
-<p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryansh0301&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
+## `whoami`
+
+```go
+package main
+
+import "fmt"
+
+type Developer struct {
+	Name              string
+	Role              string
+	Company           string
+	University        string
+	Focus             string
+	CurrentlyLearning string
+}
+
+func main() {
+	me := Developer{
+		Name:              "Suryansh Goel",
+		Role:              "Software Development Engineer I",
+		Company:           "Omniful.ai",
+		University:        "JC Bose University of Science & Technology, YMCA",
+		Focus:             "Backend Development · Distributed Systems",
+		CurrentlyLearning: "Golang — deep diving into concurrency & microservices",
+	}
+	fmt.Printf("Hey there! I'm %s 👋\n", me.Name)
+	fmt.Println("Passionate about clean code, distributed systems & how things work under the hood.")
+}
+```
+
+---
+
+## `tech.stack`
+
+### ⚙️ Languages
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### 🏗️ Frameworks & Libraries
+
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![GORM](https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=black)
+
+### 📨 Messaging & Streaming
+
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Amazon SQS](https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white)
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Redash](https://img.shields.io/badge/Redash-FF6B6B?style=for-the-badge&logoColor=white)
+
+---
+
+## `git.stats`
+
+<div align="center">
+
+[![Suryansh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suryansh0301&theme=react-dark&hide_border=true&area=true)](https://github.com/Suryansh0301)
+
+</div>
+
+---
+
+## `currently.exe`
+
+```bash
+$ ./suryansh --status
+
+[✔] Working on   → Microservices backend systems @ Omniful.ai
+[✔] Stack        → Go · Kafka · MongoDB · Redis · SQS · Docker
+[✔] Exploring    → Distributed systems & system design at scale
+[✔] Grinding     → 400+ LeetCode | 150+ GFG
+[~] Next target  → Kafka internals & advanced Go patterns
+```
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Suryansh0301&color=00ADD8&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
