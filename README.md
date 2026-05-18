@@ -97,11 +97,12 @@ func main() {
 
 ## `git.stats`
 
-<div align="center">
-
-[![Suryansh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suryansh0301&theme=react-dark&hide_border=true&area=true)](https://github.com/Suryansh0301)
-
-</div>
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Suryansh0301&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-xi-nine-17.vercel.app/api/top-langs/?username=Suryansh0301&layout=compact&theme=vision-friendly-dark&hide=html,css,javascript,ejs&card_width=800" />
+</p>
 
 ---
 
