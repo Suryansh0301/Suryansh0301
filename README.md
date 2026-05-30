@@ -10,7 +10,7 @@
                               G O E L
 </pre>
 
-### `SDE @ Omniful.ai` &nbsp;·&nbsp; `Backend Engineer` &nbsp;·&nbsp; `Go Enthusiast`
+### `SDE @ Sumtracker` &nbsp;·&nbsp; `Backend Engineer` &nbsp;·&nbsp; `Go Enthusiast`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suryansh-goel-)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/suryansh_goel_)
@@ -41,10 +41,10 @@ func main() {
 	me := Developer{
 		Name:              "Suryansh Goel",
 		Role:              "Software Development Engineer I",
-		Company:           "Omniful.ai",
+		Company:           "Sumtracker",
 		University:        "JC Bose University of Science & Technology, YMCA",
 		Focus:             "Backend Development · Distributed Systems",
-		CurrentlyLearning: "Golang — deep diving into concurrency & microservices",
+		CurrentlyLearning: "Python and its frameworks",
 	}
 	fmt.Printf("Hey there! I'm %s 👋\n", me.Name)
 	fmt.Println("Passionate about clean code, distributed systems & how things work under the hood.")
@@ -113,8 +113,8 @@ func main() {
 ```bash
 $ ./suryansh --status
 
-[✔] Working on   → Microservices backend systems @ Omniful.ai
-[✔] Stack        → Go · Kafka · MongoDB · Redis · SQS · Docker
+[✔] Working on   → backend systems @ Sumtracker
+[✔] Stack        → Python · Kafka · PostgreSQL · SQS · Docker
 [✔] Exploring    → Distributed systems & system design at scale
 [✔] Grinding     → 400+ LeetCode | 150+ GFG
 [~] Next target  → Kafka internals & advanced Go patterns
