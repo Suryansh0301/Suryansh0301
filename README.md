@@ -40,7 +40,7 @@ type Developer struct {
 func main() {
 	me := Developer{
 		Name:              "Suryansh Goel",
-		Role:              "Software Development Engineer I",
+		Role:              "Backend Developer",
 		Company:           "Sumtracker",
 		University:        "JC Bose University of Science & Technology, YMCA",
 		Focus:             "Backend Development · Distributed Systems",
@@ -69,6 +69,8 @@ func main() {
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![GORM](https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0e462a?style=for-the-badge&logo=go&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-8e130b?style=for-the-badge&logo=go&logoColor=white)
 
 ### 🗄️ Databases
 
